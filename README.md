@@ -13,6 +13,8 @@ Here Some hightlighs of the project.
 ![3](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/f9a32b80-b591-46ce-b4f0-6870d94d5761)
 ![2](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/8a7a86e9-d915-4c22-8323-3513d512215c)
 
+
+
 ### ETL pipeline using Azure synapse
 
 ![1](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/cf19fd22-6bf7-4bb3-af3a-dfc38e2dca09)
