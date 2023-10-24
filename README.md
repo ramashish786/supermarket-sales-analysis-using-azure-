@@ -2,8 +2,10 @@
 
 I have ETL pipline to get data, transform and save it for preparing dashboard do further analysis.
 Here Some hightlighs of the project.
+
 ### ETL pipeline using Azure Data Factory
 
+In this Project I have used azure data factory to make ETL pipeline and Azure Databricks to clean and tranform data and for storage I used azure data storage Gen 2.
 
 ![1](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/9b4d49bc-a34a-411b-98c1-9477c003f8a0)
 ![7](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/2db48872-2619-4bf4-b02d-176577796252)
@@ -16,6 +18,11 @@ Here Some hightlighs of the project.
 
 
 ### ETL pipeline using Azure synapse
+
+Here I used Azure Synapse.
+1.  I created Azure data storage Gen 2 to store the data and then linked it with Azure Synapse
+2.  Create pipeline to get data from gitHub and stored it in Azure data storage Gen 2
+3.  Then created spark pool in Azure Synapse so that I can use pyspark to clean and transfrom data as I want.
 
 ![1](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/cf19fd22-6bf7-4bb3-af3a-dfc38e2dca09)
 ![2](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/89c924fd-d0c0-4b27-9a3a-e0a878a27fdd)
