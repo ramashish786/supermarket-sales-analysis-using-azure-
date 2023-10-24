@@ -1,11 +1,11 @@
 # supermarket-sales-analysis-using-azure-
 
-I have ETL pipline to get data, transform and save it for preparing dashboard do further analysis.
+I have made ETL pipline to load, transform and save the data for preparing dashboard to do further analysis.
 Here Some hightlighs of the project.
 
 ### ETL pipeline using Azure Data Factory
 
-In this Project I have used azure data factory to make ETL pipeline and Azure Databricks to clean and tranform data and for storage I used azure data storage Gen 2.
+In this Project I used Azure data factory to make ETL pipeline and Azure Databricks to clean and tranform the data and for the storage I used azure data storage Gen 2.
 
 ![1](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/9b4d49bc-a34a-411b-98c1-9477c003f8a0)
 ![7](https://github.com/ramashish786/supermarket-sales-analysis-using-azure-/assets/55800734/2db48872-2619-4bf4-b02d-176577796252)
